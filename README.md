@@ -46,7 +46,7 @@ Make sure the fabric is not in the way of the clips on the ring.
 
 ## Putting it back together
 
-Do a test fit and find the correct orientation of the clips (I told you it will be important). There's a sewing on the ear pad which indicates the bottom of the ear pad. If it is not aligned properly, you can rotate the ring inside the ear pod. Now the sewing should align the 3.5 Jack on the right speaker and the USB connector on the left.
+Do a test fit and find the correct orientation of the clips (I told you it will be important). There's a sewing on the ear pad which indicates the bottom of the ear pad. If it is not aligned properly, you can rotate the ring inside the ear pad. Now the sewing should align the 3.5 Jack on the right speaker and the USB connector on the left.
 
 ![Test fit](https://raw.githubusercontent.com/std66/liberate-xlbt-earpad-replace-guide/main/images/10.jpg)
 
