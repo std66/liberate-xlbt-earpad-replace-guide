@@ -57,3 +57,6 @@ Fasten the clips by pressing the ring and the speaker body together. Also, now y
 Now, you've made it and your earphones looks like new. Got some more years with this nice product.
 
 ![End result](https://raw.githubusercontent.com/std66/liberate-xlbt-earpad-replace-guide/main/images/12.jpg)
+
+## Author
+Tamás Sinku (sinkutamas@gmail.com)
